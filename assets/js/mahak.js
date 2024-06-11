@@ -1,11 +1,4 @@
-/*-----------------------------------------------------------
- * Template Name    : Arshia | Bootstrap 5 Responsive Personal V-Card Resume HTML Template
- * Author           : Retrina Group
- * Version          : 1.0.0
- * Created          : November 2021
- * File Description : Main js file of the template
- *------------------------------------------------------------
- */
+
 
 // repeated variables
 var $window = $(window);
@@ -932,25 +925,25 @@ function themeOption(){
     "use strict";
 
     $('.color-scheme li .dark-scheme').click(function() {
-        $("body").addClass('dark-arshia');
+        $("body").addClass('dark-mahak');
         $('.color-scheme li a').removeClass('active');
         $(this).addClass('active');
     });
 
     $('.color-scheme li .light-scheme').click(function() {
-        $("body").removeClass('dark-arshia');
+        $("body").removeClass('dark-mahak');
         $('.color-scheme li a').removeClass('active');
         $(this).addClass('active');
     });
 
     $('.theme-skin li .flat-skin').click(function() {
-        $("body").removeClass('neo-arshia');
+        $("body").removeClass('neo-mahak');
         $('.theme-skin li a').removeClass('active');
         $(this).addClass('active');
     });
 
     $('.theme-skin li .neo-skin').click(function() {
-        $("body").addClass('neo-arshia');
+        $("body").addClass('neo-mahak');
         $('.theme-skin li a').removeClass('active');
         $(this).addClass('active');
     });

@@ -1,11 +1,3 @@
-/*-----------------------------------------------------------
- * Template Name    : Arshia | Bootstrap 5 Responsive Personal V-Card Resume HTML Template
- * Author           : Retrina Group
- * Version          : 1.0.0
- * Created          : November 2021
- * File Description : Main css file of the template
- *------------------------------------------------------------
- */
 
 /*--------------------------------
   1.GENERAL
@@ -2051,68 +2043,68 @@ textarea:-moz-placeholder {
  }
 }
 /*------------------------- Dark -------------------------*/
-body.dark-arshia , .dark-arshia .ajax-page-content{
+body.dark-mahak , .dark-mahak .ajax-page-content{
   background-color: #232324;
   color: #fff;
 }
-.dark-arshia .left-side , .dark-arshia #main>section , .dark-arshia .right-side{
+.dark-mahak .left-side , .dark-mahak #main>section , .dark-mahak .right-side{
   background-color: #343539;
   color: #fff;
 }
-.dark-arshia .personal-info li small , .dark-arshia .services-description  ,
-.dark-arshia .portfolio .portfolio-filter li a , .dark-arshia .blog-header ~ p , 
-.dark-arshia .follow-label , .dark-arshia .social a , .dark-arshia .count-icon ~ p, 
-.dark-arshia .language-skill h6 span , .dark-arshia .timeline-content p ,
-.dark-arshia .aside-item-portfolio ul li ,.dark-arshia .blog-single .entry-meta ul li a ,
-.dark-arshia .blog-single .comment-author p a , .dark-arshia .menu li a span ,
-.dark-arshia .testimonial .testimonial-jub{
+.dark-mahak .personal-info li small , .dark-mahak .services-description  ,
+.dark-mahak .portfolio .portfolio-filter li a , .dark-mahak .blog-header ~ p , 
+.dark-mahak .follow-label , .dark-mahak .social a , .dark-mahak .count-icon ~ p, 
+.dark-mahak .language-skill h6 span , .dark-mahak .timeline-content p ,
+.dark-mahak .aside-item-portfolio ul li ,.dark-mahak .blog-single .entry-meta ul li a ,
+.dark-mahak .blog-single .comment-author p a , .dark-mahak .menu li a span ,
+.dark-mahak .testimonial .testimonial-jub{
   color: #cbccce;
 }
-.dark-arshia .text-muted{
+.dark-mahak .text-muted{
   color: #cbccce !important;  
 }
-.dark-arshia .portfolio .portfolio-content h6 ,.dark-arshia .blog-header , .dark-arshia .primary-button ,
- .dark-arshia .primary-button:hover{
+.dark-mahak .portfolio .portfolio-content h6 ,.dark-mahak .blog-header , .dark-mahak .primary-button ,
+ .dark-mahak .primary-button:hover{
   color: #fff;
 }
-.dark-arshia .mCSB_scrollTools .mCSB_draggerRail {
+.dark-mahak .mCSB_scrollTools .mCSB_draggerRail {
   background-color: #818181;
 }
-.dark-arshia .menu a:hover span, .dark-arshia .menu a.active span{
+.dark-mahak .menu a:hover span, .dark-mahak .menu a.active span{
   color: #fff !important;
 }
-.dark-arshia input , .dark-arshia textarea{
+.dark-mahak input , .dark-mahak textarea{
   background-color: transparent;
   border-bottom: 1px solid #cbccce;
   color: #fff;
 }
-.dark-arshia .skills .skillbar{
+.dark-mahak .skills .skillbar{
   background-color: #535455 !important;
 }
-.dark-arshia .skills .skillbar-bar {
+.dark-mahak .skills .skillbar-bar {
   border: 2px solid #535455 !important;
 }
 @media (max-width: 991px){
-  .dark-arshia .menu-toggle, .dark-arshia .next-prev-page button , .dark-arshia .mobile-blog-nav.blog-next-prev-page a{
+  .dark-mahak .menu-toggle, .dark-mahak .next-prev-page button , .dark-mahak .mobile-blog-nav.blog-next-prev-page a{
       background-color: #535455  !important;
   }
 }
-.dark-arshia .circles li {
+.dark-mahak .circles li {
   background: rgba(255, 255, 255, 0.01);
 }
-.dark-arshia .aside-item-portfolio ul li:not(:last-child) {
+.dark-mahak .aside-item-portfolio ul li:not(:last-child) {
   border-bottom: 1px solid #535353;
 }
-.dark-arshia #line-loader:before, .dark-arshia #line-loader:after{
+.dark-mahak #line-loader:before, .dark-mahak #line-loader:after{
   background-color: #343539;
 }
-.dark-arshia .middle-line:before{
+.dark-mahak .middle-line:before{
   background-color: #fff;
 }
-.dark-arshia .middle-line:after{
+.dark-mahak .middle-line:after{
   background-color: #818181;
 }
-.dark-arshia .contact-01 .form-control {
+.dark-mahak .contact-01 .form-control {
   background-color: transparent;
   border-bottom: 1px solid #cbccce;
   border-radius: 0;
